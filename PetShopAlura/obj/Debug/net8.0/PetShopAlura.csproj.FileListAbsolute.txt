@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\bin\Debug\net8.0\PetShopAlura.exe
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\bin\Debug\net8.0\PetShopAlura.deps.json
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\bin\Debug\net8.0\PetShopAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\bin\Debug\net8.0\PetShopAlura.dll
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\bin\Debug\net8.0\PetShopAlura.pdb
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.dll
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\refint\PetShopAlura.dll
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.pdb
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\PetShopAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\PetShopAlura\PetShopAlura\obj\Debug\net8.0\ref\PetShopAlura.dll

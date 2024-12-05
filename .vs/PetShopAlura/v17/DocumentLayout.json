@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\services\\consultpetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\services\\consultpetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\models\\veterinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\models\\veterinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\models\\ownerpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\models\\ownerpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\petshopalura\\petshopalura\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195A1622-CCBD-4E90-8A5E-FC7075391EEB}|PetShopAlura\\PetShopAlura.csproj|solutionrelative:petshopalura\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veterinary.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Veterinary.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Models\\Veterinary.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Veterinary.cs",
+              "RelativeToolTip": "PetShopAlura\\Models\\Veterinary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:02:42.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OwnerPet.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\OwnerPet.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Models\\OwnerPet.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\OwnerPet.cs",
+              "RelativeToolTip": "PetShopAlura\\Models\\OwnerPet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:59:39.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Pet.cs",
+              "RelativeToolTip": "PetShopAlura\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:49:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Models\\Dog.cs",
+              "RelativeToolTip": "PetShopAlura\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:49:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Program.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Program.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Program.cs",
+              "RelativeToolTip": "PetShopAlura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:51:09.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultPetService.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Services\\ConsultPetService.cs",
+              "RelativeDocumentMoniker": "PetShopAlura\\Services\\ConsultPetService.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\PetShopAlura\\PetShopAlura\\Services\\ConsultPetService.cs",
+              "RelativeToolTip": "PetShopAlura\\Services\\ConsultPetService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:07:37.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
